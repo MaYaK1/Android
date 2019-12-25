@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850583355465",
+    "firebase_url": "https://testpro-ac343.firebaseio.com",
+    "project_id": "testpro-ac343",
+    "storage_bucket": "testpro-ac343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850583355465:android:66f9d977e9565eb4f6ff98",
+        "android_client_info": {
+          "package_name": "com.example.testpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850583355465-ko6b26ujm05s7l3dnoo46jifso0rijia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxIXrQ6cNy3J1S_bKV7nbwc8LiMqq2QrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850583355465-ko6b26ujm05s7l3dnoo46jifso0rijia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
